@@ -6,4 +6,4 @@ mail.example.org|512
 admin.example.org|301
 ftp.example.org|200
 
-Usage: ./program -d <domain> -l <subdomainlist>
+Usage: ./program -d example.com -l list.txt
